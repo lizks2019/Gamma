@@ -1,0 +1,45 @@
+E:\3 курс\ИБИЗИ\Gamma\Gamma\bin\Debug\Gamma.exe.config
+E:\3 курс\ИБИЗИ\Gamma\Gamma\bin\Debug\Gamma.exe
+E:\3 курс\ИБИЗИ\Gamma\Gamma\bin\Debug\Gamma.pdb
+E:\3 курс\ИБИЗИ\Gamma\Gamma\obj\Debug\Gamma.Form1.resources
+E:\3 курс\ИБИЗИ\Gamma\Gamma\obj\Debug\Gamma.Properties.Resources.resources
+E:\3 курс\ИБИЗИ\Gamma\Gamma\obj\Debug\Gamma.csproj.GenerateResource.cache
+E:\3 курс\ИБИЗИ\Gamma\Gamma\obj\Debug\Gamma.csproj.CoreCompileInputs.cache
+E:\3 курс\ИБИЗИ\Gamma\Gamma\obj\Debug\Gamma.exe
+E:\3 курс\ИБИЗИ\Gamma\Gamma\obj\Debug\Gamma.pdb
+G:\3 курс\ИБИЗИ\Gamma\Gamma\bin\Debug\Gamma.exe.config
+G:\3 курс\ИБИЗИ\Gamma\Gamma\bin\Debug\Gamma.exe
+G:\3 курс\ИБИЗИ\Gamma\Gamma\bin\Debug\Gamma.pdb
+G:\3 курс\ИБИЗИ\Gamma\Gamma\obj\Debug\Gamma.csprojAssemblyReference.cache
+G:\3 курс\ИБИЗИ\Gamma\Gamma\obj\Debug\Gamma.Form1.resources
+G:\3 курс\ИБИЗИ\Gamma\Gamma\obj\Debug\Gamma.Properties.Resources.resources
+G:\3 курс\ИБИЗИ\Gamma\Gamma\obj\Debug\Gamma.csproj.GenerateResource.cache
+G:\3 курс\ИБИЗИ\Gamma\Gamma\obj\Debug\Gamma.csproj.CoreCompileInputs.cache
+G:\3 курс\ИБИЗИ\Gamma\Gamma\obj\Debug\Gamma.exe
+G:\3 курс\ИБИЗИ\Gamma\Gamma\obj\Debug\Gamma.pdb
+E:\3 курс\ИБИЗИ\Gamma\Gamma\obj\Debug\Gamma.csprojResolveAssemblyReference.cache
+E:\3 курс\ИБИЗИ\Gamma\Gamma\obj\Debug\Gamma.Form2.resources
+E:\3 курс\ИБИЗИ\Gamma\Gamma\obj\Debug\Gamma.Form3.resources
+C:\Users\Лев\Desktop\Gamma\Gamma\bin\Debug\Gamma.exe.config
+C:\Users\Лев\Desktop\Gamma\Gamma\bin\Debug\Gamma.exe
+C:\Users\Лев\Desktop\Gamma\Gamma\bin\Debug\Gamma.pdb
+C:\Users\Лев\Desktop\Gamma\Gamma\obj\Debug\Gamma.csprojAssemblyReference.cache
+C:\Users\Лев\Desktop\Gamma\Gamma\obj\Debug\Gamma.Form1.resources
+C:\Users\Лев\Desktop\Gamma\Gamma\obj\Debug\Gamma.Form2.resources
+C:\Users\Лев\Desktop\Gamma\Gamma\obj\Debug\Gamma.Form3.resources
+C:\Users\Лев\Desktop\Gamma\Gamma\obj\Debug\Gamma.Properties.Resources.resources
+C:\Users\Лев\Desktop\Gamma\Gamma\obj\Debug\Gamma.csproj.GenerateResource.cache
+C:\Users\Лев\Desktop\Gamma\Gamma\obj\Debug\Gamma.exe
+C:\Users\Лев\Desktop\Gamma\Gamma\obj\Debug\Gamma.pdb
+D:\Безопасность\Gamma\Gamma\bin\Debug\Gamma.exe.config
+D:\Безопасность\Gamma\Gamma\bin\Debug\Gamma.exe
+D:\Безопасность\Gamma\Gamma\bin\Debug\Gamma.pdb
+D:\Безопасность\Gamma\Gamma\obj\Debug\Gamma.csprojAssemblyReference.cache
+D:\Безопасность\Gamma\Gamma\obj\Debug\Gamma.Form1.resources
+D:\Безопасность\Gamma\Gamma\obj\Debug\Gamma.Form2.resources
+D:\Безопасность\Gamma\Gamma\obj\Debug\Gamma.Form3.resources
+D:\Безопасность\Gamma\Gamma\obj\Debug\Gamma.Properties.Resources.resources
+D:\Безопасность\Gamma\Gamma\obj\Debug\Gamma.csproj.GenerateResource.cache
+D:\Безопасность\Gamma\Gamma\obj\Debug\Gamma.csproj.CoreCompileInputs.cache
+D:\Безопасность\Gamma\Gamma\obj\Debug\Gamma.exe
+D:\Безопасность\Gamma\Gamma\obj\Debug\Gamma.pdb
